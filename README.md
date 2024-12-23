@@ -27,7 +27,7 @@ This project is a **GraphQL API** for a blogging platform that uses:
 
 
 ## Folder structure
-
+```bash
 graphql-miniblog/
 ├── index.js          # Main server file that combines all functionality
 ├── config/
@@ -41,7 +41,7 @@ graphql-miniblog/
 ├── README.md         # Documentation for the project
 ├── package.json      # Project metadata and dependencies
 └── node_modules/     # Installed npm packages (auto-generated)
-
+```
 
 
 ---
